@@ -3,6 +3,7 @@
 Hi, my name is Gajanan Gangakhedkar, and I am a Bachelor of Engineering graduate in Information Technology from Savitribai Phule Pune University. 
 I am passionate about coding, problem-solving, and software development. Skilled in Java, C++, SQL, and database management, I strive to build 
 efficient and innovative software solutions. Additionally, I am exploring cloud computing and data analytics to broaden my technical expertise.
+  im possesses expertise in a wide range of programming languages, including Python, C++, Java, and SQL, and is skilled in leveraging frameworks like TensorFlow, Keras, Django, and Flask for modern software development. With hands-on experience in web development through internships at Oasis Infobyte and Let’sGrowMore, he has honed his ability to design and develop responsive, user-friendly applications.
 </h3>
 
 <p align="left">
@@ -15,15 +16,15 @@ efficient and innovative software solutions. Additionally, I am exploring cloud 
   </a>
 </p>
 
-- 🔭 I’m currently working on [Codec Technology](https://github.com/EngineerGajanan22/Roxiler-Systems-Assessment)
+- 🔭 I’m currently working on [Codec Technology](https://drive.google.com/file/d/1ToL0W89se4E40tktcj8LYclbWzDrwt3r/view?usp=sharing)
 
-- 🌱 I’m currently learning **Cloud Computing, Machine Learning, and Data Analytics**
+- 🌱 I’m currently learning **REACT.js, Web Development, and Node.js**
 
-- 💬 Ask me about **Python, Java, SQL, C++, and Software Development**
+- 💬 Ask me about **Web Development, Java, SQL, C++, and Software Development**
 
 - 📫 How to reach me **gangakhedkargajanan91@gmail.com**
 
-- 📄 My Resume [Gajanan_Resume](#)
+- 📄 My Resume [Gajanan_Resume](https://drive.google.com/file/d/1C_fWWZGWgFjl07uZpnFXQ46sOgFlJDMR/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy playing football and traveling during my free time.**
 
