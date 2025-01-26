@@ -10,7 +10,7 @@ efficient and innovative software solutions. Additionally, I am exploring cloud 
   <img src="https://komarev.com/ghpvc/?username=EngineerGajanan22&label=Profile%20views&color=0e75b6&style=flat" alt="EngineerGajanan22" />
 </p>
 
-- 🔭 I’m currently working on [Codec Technology](https://drive.google.com/file/d/1ToL0W89se4E40tktcj8LYclbWzDrwt3r/view?usp=sharing)
+- 🔭 I’m currently working on [Frontend Development] (https://drive.google.com/file/d/1ToL0W89se4E40tktcj8LYclbWzDrwt3r/view?usp=sharing)
 
 - 🌱 I’m currently learning **REACT.js, Web Development, and Node.js**
 
