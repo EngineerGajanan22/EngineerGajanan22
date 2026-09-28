@@ -18,7 +18,7 @@ efficient and innovative software solutions. Additionally, I am exploring cloud 
 
 - 📫 How to reach me **gangakhedkargajanan91@gmail.com**
 
-- 📄 My Resume [Gajanan_Resume]([https://drive.google.com/file/d/1C_fWWZGWgFjl07uZpnFXQ46sOgFlJDMR/view?usp=sharing](https://drive.google.com/file/d/1C_fWWZGWgFjl07uZpnFXQ46sOgFlJDMR/view?usp=sharing))
+- 📄 My Resume [Gajanan_Resume](https://drive.google.com/file/d/1C_fWWZGWgFjl07uZpnFXQ46sOgFlJDMR/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy playing football and traveling during my free time.**
 
